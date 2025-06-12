@@ -49,8 +49,8 @@ The model performs with high precision and recall on unseen data, making it suit
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/HadisZare12/breast-cancer-prediction.git
-cd breast-cancer-prediction
+git clone https://github.com/HadisZare12/Breast-Cancer-Prediction.git
+cd Breast-Cancer-Prediction
 
 # 2. Install dependencies
 pip install torch scikit-learn matplotlib
